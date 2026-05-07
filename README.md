@@ -12,7 +12,7 @@ Please refer to the Salifort_Motors_Employee_Attrition.ipynb file for
  
 This Project uses results from an HR survey publicly available on Kaggle.
 
-* Downloaded link for the data: https://www.kaggle.com/datasets/arashnic/fitbit.
+* Downloaded link for the data: https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv
 * A copy of the CSV file is also uploaded
   
 ## Programming Languages and Tools used
