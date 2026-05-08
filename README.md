@@ -2,7 +2,7 @@
 
 This project was created as part of the final Google Advanced Data Analytics Capstone Project.
 
-Please refer to the Executive Summary - Salifort Motors Employee Attrition.pd file for the Executive Summary
+Please refer to the Executive Summary - Salifort Motors Employee Attrition.pdf file for the Executive Summary
 
 Please refer to the Salifort_Motors_Employee_Attrition.ipynb file for 
 
