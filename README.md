@@ -2,7 +2,7 @@
 
 This project was created as part of the final Google Advanced Data Analytics Capstone Project.
 
-![Executive Summary](https://github.com/snaveerafrizvi/Employee_Attrition_ML/blob/main/Executive%20Summary%20-%20Salifort%20Motors%20Employee%20Attrition.png)
+![Executive Summary](https://github.com/snaveerafrizvi/Employee_Attrition_ML/blob/main/Executive%20Summary%20-%20Salifort%20Motors%20Employee%20Attrition.pdf)
 
 Please refer to the Salifort_Motors_Employee_Attrition.ipynb file for 
 
