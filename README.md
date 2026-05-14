@@ -2,7 +2,7 @@
 
 This project was created as part of the final Google Advanced Data Analytics Capstone Project.
 
-![Executive Summary](Executive Summary - Salifort Motors Employee Attrition.png)
+![Executive Summary]("Executive Summary - Salifort Motors Employee Attrition.png")
 
 Please refer to the Salifort_Motors_Employee_Attrition.ipynb file for 
 
