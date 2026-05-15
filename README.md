@@ -9,7 +9,7 @@ Please refer to the Salifort_Motors_Employee_Attrition.ipynb file for
 *  The detailed analysis and report
 *  All code, tables and figures
 
- ## Data Source
+## Data Source
  
 This Project uses results from an HR survey publicly available on Kaggle.
 
@@ -18,7 +18,8 @@ This Project uses results from an HR survey publicly available on Kaggle.
   
 ## Programming Languages and Tools used
 
-This Project uses Python for all analysis
+All code is in Python
+
 
 
   
